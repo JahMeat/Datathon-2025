@@ -8,11 +8,6 @@ In this project, we analyze historical service request data from the City of Sea
 
 Additionally, we visualize key patterns and trends using Tableau to support operational planning and resource allocation.
 
-Our work addresses the following goals:
-- Predict the number of service requests per Service Request Type.
-- Predict future requests at the Department level.
-- Predict service requests for specific ZIP Code and Service Request Type combinations.
-
 ## Final Models
 We evaluated multiple models — Linear Regression, Random Forest, LightGBM, and XGBoost — and selected the best-performing model for each service category based on Mean Absolute Percentage Error (MAPE).
 
