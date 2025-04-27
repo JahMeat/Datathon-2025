@@ -1,0 +1,133 @@
+Service Request Type,Year,Month,Predicted Request Count,Model
+ADA Request (Transportation),2025,5,114.47727272726479,Linear Regression
+ADA Request (Transportation),2025,6,127.56818181817653,Linear Regression
+ADA Request (Transportation),2025,7,140.65909090908826,Linear Regression
+Abandoned Vehicle,2025,5,669.8631746031745,Random Forest
+Abandoned Vehicle,2025,6,683.0092777777776,Random Forest
+Abandoned Vehicle,2025,7,639.2908055555552,Random Forest
+Animal Noise,2025,5,669.8631746031745,Random Forest
+Animal Noise,2025,6,683.0092777777776,Random Forest
+Animal Noise,2025,7,639.2908055555552,Random Forest
+Business Related Complaint,2025,5,114.47727272726479,Linear Regression
+Business Related Complaint,2025,6,127.56818181817653,Linear Regression
+Business Related Complaint,2025,7,140.65909090908826,Linear Regression
+Business Violation of Public Health Requirements,2025,5,4.9516908346712825,LightGBM
+Business Violation of Public Health Requirements,2025,6,4.9516908346712825,LightGBM
+Business Violation of Public Health Requirements,2025,7,5.8840573897298745,LightGBM
+Clogged Storm Drain,2025,5,114.47727272726479,Linear Regression
+Clogged Storm Drain,2025,6,127.56818181817653,Linear Regression
+Clogged Storm Drain,2025,7,140.65909090908826,Linear Regression
+Damaged Sidewalk,2025,5,114.47727272726479,Linear Regression
+Damaged Sidewalk,2025,6,127.56818181817653,Linear Regression
+Damaged Sidewalk,2025,7,140.65909090908826,Linear Regression
+Dead Animal,2025,5,114.47727272726479,Linear Regression
+Dead Animal,2025,6,127.56818181817653,Linear Regression
+Dead Animal,2025,7,140.65909090908826,Linear Regression
+General Inquiry - Animal Shelter,2025,5,43.07984161376953,XGBoost
+General Inquiry - Animal Shelter,2025,6,43.07984161376953,XGBoost
+General Inquiry - Animal Shelter,2025,7,43.07984161376953,XGBoost
+General Inquiry - City Light,2025,5,114.47727272726479,Linear Regression
+General Inquiry - City Light,2025,6,127.56818181817653,Linear Regression
+General Inquiry - City Light,2025,7,140.65909090908826,Linear Regression
+General Inquiry - Customer Service Bureau,2025,5,114.47727272726479,Linear Regression
+General Inquiry - Customer Service Bureau,2025,6,127.56818181817653,Linear Regression
+General Inquiry - Customer Service Bureau,2025,7,140.65909090908826,Linear Regression
+General Inquiry - Police Department,2025,5,114.47727272726479,Linear Regression
+General Inquiry - Police Department,2025,6,127.56818181817653,Linear Regression
+General Inquiry - Police Department,2025,7,140.65909090908826,Linear Regression
+General Inquiry - Public Utilities,2025,5,114.47727272726479,Linear Regression
+General Inquiry - Public Utilities,2025,6,127.56818181817653,Linear Regression
+General Inquiry - Public Utilities,2025,7,140.65909090908826,Linear Regression
+General Inquiry - Transportation,2025,5,114.47727272726479,Linear Regression
+General Inquiry - Transportation,2025,6,127.56818181817653,Linear Regression
+General Inquiry - Transportation,2025,7,140.65909090908826,Linear Regression
+Graffiti,2025,5,114.47727272726479,Linear Regression
+Graffiti,2025,6,127.56818181817653,Linear Regression
+Graffiti,2025,7,140.65909090908826,Linear Regression
+Illegal Dumping / Needles,2025,5,114.47727272726479,Linear Regression
+Illegal Dumping / Needles,2025,6,127.56818181817653,Linear Regression
+Illegal Dumping / Needles,2025,7,140.65909090908826,Linear Regression
+Internet/Cable Issue,2025,5,669.8631746031745,Random Forest
+Internet/Cable Issue,2025,6,683.0092777777776,Random Forest
+Internet/Cable Issue,2025,7,639.2908055555552,Random Forest
+Overgrown Vegetation,2025,5,43.07984161376953,XGBoost
+Overgrown Vegetation,2025,6,43.07984161376953,XGBoost
+Overgrown Vegetation,2025,7,43.07984161376953,XGBoost
+Parking Enforcement,2025,5,114.47727272726479,Linear Regression
+Parking Enforcement,2025,6,127.56818181817653,Linear Regression
+Parking Enforcement,2025,7,140.65909090908826,Linear Regression
+Parks and Recreation Maintenance,2025,5,114.47727272726479,Linear Regression
+Parks and Recreation Maintenance,2025,6,127.56818181817653,Linear Regression
+Parks and Recreation Maintenance,2025,7,140.65909090908826,Linear Regression
+Pollution Report Form,2025,5,4.9516908346712825,LightGBM
+Pollution Report Form,2025,6,4.9516908346712825,LightGBM
+Pollution Report Form,2025,7,5.8840573897298745,LightGBM
+Pothole,2025,5,43.07984161376953,XGBoost
+Pothole,2025,6,43.07984161376953,XGBoost
+Pothole,2025,7,43.07984161376953,XGBoost
+Public Garage or Parking Lot Complaint,2025,5,114.47727272726479,Linear Regression
+Public Garage or Parking Lot Complaint,2025,6,127.56818181817653,Linear Regression
+Public Garage or Parking Lot Complaint,2025,7,140.65909090908826,Linear Regression
+Public Litter and Recycling Cans,2025,5,114.47727272726479,Linear Regression
+Public Litter and Recycling Cans,2025,6,127.56818181817653,Linear Regression
+Public Litter and Recycling Cans,2025,7,140.65909090908826,Linear Regression
+Safe Routes to School,2025,5,114.47727272726479,Linear Regression
+Safe Routes to School,2025,6,127.56818181817653,Linear Regression
+Safe Routes to School,2025,7,140.65909090908826,Linear Regression
+Scooter or Bike Share Issue,2025,5,669.8631746031745,Random Forest
+Scooter or Bike Share Issue,2025,6,683.0092777777776,Random Forest
+Scooter or Bike Share Issue,2025,7,639.2908055555552,Random Forest
+Street Sign and Traffic Signal Maintenance,2025,5,114.47727272726479,Linear Regression
+Street Sign and Traffic Signal Maintenance,2025,6,127.56818181817653,Linear Regression
+Street Sign and Traffic Signal Maintenance,2025,7,140.65909090908826,Linear Regression
+Streetlight Maintenance,2025,5,669.8631746031745,Random Forest
+Streetlight Maintenance,2025,6,683.0092777777776,Random Forest
+Streetlight Maintenance,2025,7,639.2908055555552,Random Forest
+Towing Impound Complaint,2025,5,114.47727272726479,Linear Regression
+Towing Impound Complaint,2025,6,127.56818181817653,Linear Regression
+Towing Impound Complaint,2025,7,140.65909090908826,Linear Regression
+Traffic Calming,2025,5,114.47727272726479,Linear Regression
+Traffic Calming,2025,6,127.56818181817653,Linear Regression
+Traffic Calming,2025,7,140.65909090908826,Linear Regression
+Wireless or Small Cell Issue,2025,5,669.8631746031745,Random Forest
+Wireless or Small Cell Issue,2025,6,683.0092777777776,Random Forest
+Wireless or Small Cell Issue,2025,7,639.2908055555552,Random Forest
+Towing Complaint - Public Impound,2025,5,4.9516908346712825,LightGBM
+Towing Complaint - Public Impound,2025,6,4.9516908346712825,LightGBM
+Towing Complaint - Public Impound,2025,7,5.8840573897298745,LightGBM
+Abandoned Vehicle/72hr Parking Ordinance,2025,5,669.8631746031745,Random Forest
+Abandoned Vehicle/72hr Parking Ordinance,2025,6,683.0092777777776,Random Forest
+Abandoned Vehicle/72hr Parking Ordinance,2025,7,639.2908055555552,Random Forest
+Nightlife Noise Complaint,2025,5,43.07984161376953,XGBoost
+Nightlife Noise Complaint,2025,6,43.07984161376953,XGBoost
+Nightlife Noise Complaint,2025,7,43.07984161376953,XGBoost
+Unauthorized Encampment,2025,5,114.47727272726479,Linear Regression
+Unauthorized Encampment,2025,6,127.56818181817653,Linear Regression
+Unauthorized Encampment,2025,7,140.65909090908826,Linear Regression
+Feedback about the Customer Service Requests Portal,2025,5,114.47727272726479,Linear Regression
+Feedback about the Customer Service Requests Portal,2025,6,127.56818181817653,Linear Regression
+Feedback about the Customer Service Requests Portal,2025,7,140.65909090908826,Linear Regression
+"Feedback about the Find It, Fix It mobile app",2025,5,114.47727272726479,Linear Regression
+"Feedback about the Find It, Fix It mobile app",2025,6,127.56818181817653,Linear Regression
+"Feedback about the Find It, Fix It mobile app",2025,7,140.65909090908826,Linear Regression
+Found a Pet,2025,5,114.47727272726479,Linear Regression
+Found a Pet,2025,6,127.56818181817653,Linear Regression
+Found a Pet,2025,7,140.65909090908826,Linear Regression
+Lost a Pet,2025,5,114.47727272726479,Linear Regression
+Lost a Pet,2025,6,127.56818181817653,Linear Regression
+Lost a Pet,2025,7,140.65909090908826,Linear Regression
+Street Sign Maintenance,2025,5,669.8631746031745,Random Forest
+Street Sign Maintenance,2025,6,683.0092777777776,Random Forest
+Street Sign Maintenance,2025,7,639.2908055555552,Random Forest
+Traffic Signal Maintenance,2025,5,114.47727272726479,Linear Regression
+Traffic Signal Maintenance,2025,6,127.56818181817653,Linear Regression
+Traffic Signal Maintenance,2025,7,140.65909090908826,Linear Regression
+Snow and Ice,2025,5,43.07984161376953,XGBoost
+Snow and Ice,2025,6,43.07984161376953,XGBoost
+Snow and Ice,2025,7,43.07984161376953,XGBoost
+Nuisance dogs in a park,2025,5,114.47727272726479,Linear Regression
+Nuisance dogs in a park,2025,6,127.56818181817653,Linear Regression
+Nuisance dogs in a park,2025,7,140.65909090908826,Linear Regression
+Bicycle Facility Maintenance,2025,5,114.47727272726479,Linear Regression
+Bicycle Facility Maintenance,2025,6,127.56818181817653,Linear Regression
+Bicycle Facility Maintenance,2025,7,140.65909090908826,Linear Regression
